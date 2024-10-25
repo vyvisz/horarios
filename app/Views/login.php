@@ -49,9 +49,9 @@
                     <button type="submit" class="btn btn-primary btn-block enter-btn">ENTRAR</button>
                   </div>
                   <footer class="footer-login">
-                    <div class="d-sm-flex justify-content-center justify-content-sm-between">
-                      <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">
-                        Copyright © 2024
+                    <div class="d-flex justify-content-center">
+                      <span class="text-muted text-center">
+                        © 2024 Gerenciador de Horários - 
                         <a href="https://ifrocalama.com/"target="_blank">Calama Devs.</a>
                       </span>
                     </div>
@@ -67,7 +67,7 @@
               </div>
             </div>
           </div>
-          <!-- content-wrapper ends -->
+          <!-- content-wrapper ends --> <!--test --> 
         </div>
         <!-- row ends -->
       </div>
